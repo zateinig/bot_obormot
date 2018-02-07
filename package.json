@@ -1,0 +1,17 @@
+{
+  "name": "bot_obormot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "zateinig",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.5.2",
+    "phantomjs": "^2.1.7",
+    "promise": "^8.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}

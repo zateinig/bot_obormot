@@ -1,0 +1,7 @@
+{
+	"bot_login":"",
+	"bot_pass":"",
+	"accounts_for_likes":[""],
+	"sleep_delay":"10000",
+	"likes_per_user":5
+}
